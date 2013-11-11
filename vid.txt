@@ -1,0 +1,2 @@
+file '/home/qiong/Dropbox/Ubuntu/DPIM83/Face-Morphing/music_photos/slide.mp4'
+file '/home/qiong/Dropbox/Ubuntu/DPIM83/Face-Morphing/merge.avi'

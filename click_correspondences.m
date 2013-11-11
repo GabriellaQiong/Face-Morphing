@@ -10,7 +10,6 @@ if nargin < 3
 end
 
 % Pad with zero at the largest extent
-im2 = imresize(im2,[600, 600]);
 [nr1, nc1, ~] = size(im1);
 [nr2, nc2, ~] = size(im2);
 nr            = max(nr1, nr2); 

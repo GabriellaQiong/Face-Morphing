@@ -13,7 +13,6 @@ end
 assert(size(im1_pts, 1) == size(im2_pts, 1),'Control points in two images should be the same amount!');
 
 % Pad images at the largest extent if they are not padded
-im2 = imresize(im2,[600, 600]);
 [nr1, nc1, ~] = size(im1);
 [nr2, nc2, ~] = size(im2);
 if nr1 == nr2 && nc1 == nc2
